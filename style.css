@@ -1,0 +1,82 @@
+body {
+    font-size: 20px;
+}
+.korean{
+    background-image: url(Images/Korean_Street_Food_Twigim_.jpg);
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-size: 30px;  
+}
+
+.nav{
+ 
+    height: auto;
+    padding: 35px;
+    margin: 0px;
+}
+.nav li{
+height: auto;
+display: inline;
+float: right;
+padding: 50px;
+padding-top: 0px;
+justify-content: center;
+font-weight: bold;
+}
+   
+h3 {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+.dishes {
+    background-color:grey;
+    padding: 20px;
+}
+.food {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 0%;
+}
+.food img {
+    height: 60%;
+    width: 100%;
+}
+.street1 {
+    text-align: center;
+    height: 400px;
+    width: 25%;
+    text-align: center;
+    margin-top: 10px;
+   
+}
+
+.food1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.food1 img {
+    height: 60%;
+    width: 100%;
+   
+}
+.street2 {
+    text-align: center;
+    height: 400px;
+    width: 25%;
+    text-align: center;
+    margin-top: 10px;
+}
+.footer {
+    /* display: flex; */
+    text-align: center;
+}
+.address {
+    text-align: left;
+}
+.icons {
+    float: left;
+}
