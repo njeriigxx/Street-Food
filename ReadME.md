@@ -1,6 +1,6 @@
 By Njeri Gathuku
 
-Description This is a Korean Street Food website. In it there are different street foods. The website offers suggextions to customers on different street foods found in Korean.
+Description This is a Korean Street Food website. In it there are different street foods. The website offers suggesUtions to customers on different street foods found in Korean.
 
 Setup/Installation Requirements 1)Install the Visual studio code 2)Git clone the repository 3)Make sure the live server extension is installed 4)Click on Go live
 
